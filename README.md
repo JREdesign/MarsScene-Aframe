@@ -39,7 +39,7 @@ El stack tecnológico y herramientas utilizadas:
 
 ## 🔎 Análisis del código en detalle
 
-https://rich-term
+https://rich-termite-16a.notion.site/Mars-Scene-A-Frame-Explicaci-n-del-c-digo-fd0cbf31d0f4408f9be4192bfac3646f
 
 ---
 
@@ -54,7 +54,8 @@ Creado por [JREdesign](https://github.com/JREdesign)
 
 Proyecto: https://github.com/JREdesign/MarsScene-Aframe
 
-Despliegue: https://jredesign.github.io/
+Despliegue: https://jredesign.github.io/MarsScene-Aframe/
+
 ![Static Badge](https://img.shields.io/badge/Version-5.2-red) ![Static Badge](https://img.shields.io/badge/Version%20AFRAME-1.5.0-blue)
 
 
