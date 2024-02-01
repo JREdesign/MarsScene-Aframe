@@ -30,7 +30,7 @@ El stack tecnológico y herramientas utilizadas:
 | Photoshop         | Diseño y retoque de imágenes               |
 | Blender           | Software gratuito de modelado 3D           |
 | Illustrator       | Retoque de imágenes SVG y vectoriales      |
-| Midjourney        | IA geenrativa de imagenes (texturas)       |
+| Midjourney        | IA generativa de imagenes (texturas)       |
 | Visual Studio Code| Entorno de desarrollo                      |
 | Bootstrap         | Framework de CSS para diseño responsivo    |
 | HTML5             | Estructura y contenido de la web           |
